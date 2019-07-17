@@ -71,12 +71,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 **********************************************
-Number and name of feature: ________________________________
+Number and name of feature: Lab 12: Components and Forms
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 5 hrs
 
-Start time: _____
+Start time: 9:30am
 
-Finish time: _____
+Finish time: 11:30am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2hrs
